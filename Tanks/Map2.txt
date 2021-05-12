@@ -1,0 +1,14 @@
+13
+0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 B 0 B 0 0 0 0 0 0 
+T 0 0 T B T B T 0 0 T 0 0 
+B T T B B B B B T T B T 0
+B B B B S B S B B B B T 0
+W W W B B B B B W W W T 0
+W B B B B B B B B B W W T
+B B B W B B B W B B B T T 
+B B W W W B W W W B B W W
+T W W T T T T T W W T W T
+0 T T 0 0 0 0 0 T T 0 T 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 P 0 0 0 0 0 0
